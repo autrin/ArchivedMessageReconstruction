@@ -1,4 +1,4 @@
-package edu.iastate.cs228.hw4;
+package msgtree;
 
 import java.io.BufferedReader;
 import java.io.File;
